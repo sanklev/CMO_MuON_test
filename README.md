@@ -9,3 +9,4 @@
 
 - Данные: https://habr.com/ru/companies/ru_mts/articles/585804/
 - Методология и выводы описаны в тетрадке И в презентации.
+- Latex документ с описанием MuON и небольшим Shampoo (https://www.overleaf.com/read/yzftvnybykgp#feb471) + pdf
